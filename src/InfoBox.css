@@ -1,0 +1,13 @@
+.InfoBox{
+    text-align: center;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.wCard{
+    box-shadow: 0 0 11px black;
+}
+
